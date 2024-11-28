@@ -63,7 +63,7 @@ Material You NewTab is a versatile browser extension that personalizes your New 
   </tr>
 </table>
 
-#### 🔴 🟡 🟢 Test live : https://xengshi.github.io/materialYouNewTab/
+#### 🔴 🟡 🟢 Test live : https://sushantrahate.github.io/materialYouNewTab/
 
 ## ✨ Features
 
